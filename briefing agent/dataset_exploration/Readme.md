@@ -4,7 +4,7 @@ FINDSum dataset (Financial Report Document Summarization) is a financial summari
 
 <img width="234" alt="Picture1" src="https://github.com/user-attachments/assets/d91f8372-efed-4fb4-8019-0097c89543aa" />
 <br/>
+<img width="402" alt="Picture1" src="https://github.com/user-attachments/assets/51213c94-d361-48cb-a0ce-9fecfd4b0320" />
 
-<img width="239" alt="Picture2" src="https://github.com/user-attachments/assets/e98c4525-4085-46b5-9324-5d7b4d54312b" />
 
 We conducted exploratory analysis on the FINDSum dataset to assess its suitability, including an examination of document length distributions (see Figure 3). Based on the dataset’s diversity and length profiles, we determined it to be a strong fit for our use case.
