@@ -119,14 +119,13 @@ Contributions are welcome! Please open issues or pull requests for:
 - Enhanced hallucination detection or numerical reasoning modules  
 - Expanded evaluation metrics or user studies
 
-## Authors & Contact
+## Authors
 
-- **Mrigank Khandelwal** – khandelwal.mr@northeastern.edu  
-- **Gargi Kelaskar** – kelaskar.g@northeastern.edu  
-- **Shashank Joshi** – joshi.shash@northeastern.edu  
+- **Mrigank Khandelwal** 
+- **Gargi Kelaskar**
+- **Shashank Joshi** 
 
-Northeastern University, DS 5983
-
+Northeastern University
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
