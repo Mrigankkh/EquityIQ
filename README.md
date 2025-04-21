@@ -23,6 +23,7 @@ EquityIQ is an AI‑powered, multi‑agent financial analysis system that automa
   - Modular agent definitions allow easy customization and extension to other domains.
 
 ## Architecture Overview
+<img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/3f1817ad-2b43-43c9-bc07-ca326be4dc88" />
 
 1. **Vector Store Initialization**  
    - Parse raw SEC filings, embed with BAAI/bge‑small‑en‑v1.5, and index via `llama_index`.  
